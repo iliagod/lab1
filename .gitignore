@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+# VS files
+*.filters
+*.user
+.vs/
+.editorconfig
+*.aps
+*.VC.db
+*.suo
